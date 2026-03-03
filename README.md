@@ -80,3 +80,4 @@ http://localhost:5000
   - Maintains local copy of drawing data for redraws
 )
 
+<img width="923" height="592" alt="Screenshot 2026-03-01 194730" src="https://github.com/user-attachments/assets/61db8b94-f970-47ff-b7ab-41937558f434" />
